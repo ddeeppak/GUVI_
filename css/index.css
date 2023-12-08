@@ -1,0 +1,66 @@
+.col-sm-6{
+    height: 80vh;
+}
+
+.loginsign
+{
+    border-radius: 20px;
+    margin: auto;
+    min-width: 300px;
+    min-height: 50vh;
+    margin-top: 40%;
+    padding: 10%;
+    width: 30vh;
+    height: 50vh;
+}
+.login-container, .registration-container {
+    margin-top: 50px;
+}
+
+.form-btn {
+    width: 150px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: -4px 10px 15px rgb(122, 122, 122);
+}
+
+.loginbtn {
+    background-color: #007bff; 
+    color: #ffffff; 
+}
+
+.signbtn {
+    background-color: #28a745; 
+    color: #ffffff; 
+}
+
+.or {
+    margin-top: 20px;
+    font-weight: bold;
+    padding: 0 10px;
+    color: #000000;
+    
+}
+
+.colrt-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url("../assets/images/poster1.jpg"); 
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+}
+.collt-img{
+    background-image: url('../assets/images/grid.png');
+    background-position: center;
+    height: 100vh;
+
+    box-shadow: 10px 10px 20px;
+}
+.nav-color
+{
+    background: linear-gradient(90deg,rgba(230, 230, 230, 0.658),rgba(1, 197, 197, 0.596),rgba(0, 204, 255, 0.678));
+}
+

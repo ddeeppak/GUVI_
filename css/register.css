@@ -1,0 +1,33 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.registration-container {
+    margin-top: 50px;
+}
+
+.registration-form {
+    background: linear-gradient(300deg,rgb(208, 255, 214),rgb(236, 236, 236));
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+.registration-header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.register-btn {
+    background-color: #28a745;
+    color: #ffffff;
+    border: none;
+}
+
+.register-btn:hover {
+    background-color: #218838;
+}
+
+#ageDisplay {
+    margin-top: 10px;
+}
